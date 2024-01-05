@@ -1,0 +1,402 @@
+[
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000006336.jpg",
+        "caption": "Few sheep are eating grass on a mountain."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000011667.jpg",
+        "caption": "Animals are eating grass beyond the fence. "
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000018312.jpg",
+        "caption": "Apples hanging from a tree."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000025625.jpg",
+        "caption": "Few cows are sitting on the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000045701.jpg",
+        "caption": "Zebras are standing on the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000060576.jpg",
+        "caption": "An airplane is standing beside a car on the runway."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000061150.jpg",
+        "caption": "A referee and a man holding bat. "
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000063147.jpg",
+        "caption": "A bench and a lamp post in the water."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000066027.jpg",
+        "caption": "Zebras are walking on the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000074499.jpg",
+        "caption": "A boat on the shore."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000083613.jpg",
+        "caption": "A man clicking a photograph of a giraffe drinking water from a pond."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000083632.jpg",
+        "caption": "Jet planes are flying in the sky."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000092549.jpg",
+        "caption": "A giraffe and other animals in wildlife."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000093764.jpg",
+        "caption": "Two cows are standing on the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000100413.jpg",
+        "caption": "A hydrant on the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000103522.jpg",
+        "caption": "A boy is holding a baseball bat."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000111000.jpg",
+        "caption": "Boys are playing with frisbee disc."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000112956.jpg",
+        "caption": "An airplane flying in the sky."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000117543.jpg",
+        "caption": "A n airplane flying in the sky."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000117668.jpg",
+        "caption": "Planes are flying in the sky."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000118690.jpg",
+        "caption": "A girl is flying an airplane shaped kite."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000129397.jpg",
+        "caption": "A man is riding a skateboard."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000135800.jpg",
+        "caption": "A cow is eating the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000138659.jpg",
+        "caption": "A clock on a tower with bells."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000144064.jpg",
+        "caption": "An airplane flying in the sky."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000163568.jpg",
+        "caption": "Few zebras are walking on the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000181057.jpg",
+        "caption": "Zebras are grazing on grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000186797.jpg",
+        "caption": "A location signboard near the parking space."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000190767.jpg",
+        "caption": "Cows are eating grass on the other side of the fence."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000196681.jpg",
+        "caption": "A plane is flying above the mountains."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000197222.jpg",
+        "caption": "Zebras are eating the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000209320.jpg",
+        "caption": "A horse is eating grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000211501.jpg",
+        "caption": "A Giraffe in the jungle."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000211716.jpg",
+        "caption": "A girl is playing tennis with a cat."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000213174.jpg",
+        "caption": "bench near lamp post in a park."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000219174.jpg",
+        "caption": "A bear is walking on the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000222053.jpg",
+        "caption": "A bench in between trees and bushes in a park."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000234391.jpg",
+        "caption": "A bird is sitting near a river."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000235189.jpg",
+        "caption": "Girls are trying to fly a bird shaped kite."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000237560.jpg",
+        "caption": "Three people are walking holding umbrellas."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000247106.jpg",
+        "caption": "Two men are playing with a frisbee disc."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000271825.jpg",
+        "caption": "Three boats near the shore."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000274341.jpg",
+        "caption": "A running bus on the road. "
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000281581.jpg",
+        "caption": "Two birds are sitting on a wooden pole."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000287904.jpg",
+        "caption": "Two boys are playing with frisbee disc."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000292171.jpg",
+        "caption": "Jet planes flying in the sky."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000292986.jpg",
+        "caption": "A traffic signal at a junction."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000308316.jpg",
+        "caption": "An airplane is flying in the sky."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000311286.jpg",
+        "caption": "A sheep is eating the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000312220.jpg",
+        "caption": "A cow near the fence is looking at a dog."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000312686.jpg",
+        "caption": "A clock on top of a tower."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000313156.jpg",
+        "caption": "A Bench in the Garden"
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000333424.jpg",
+        "caption": "Zebras are eating the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000335299.jpg",
+        "caption": "Few cows are standing in the water."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000339100.jpg",
+        "caption": "Zebras are walking on the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000343162.jpg",
+        "caption": "People are flying different kinds of kites in the sky."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000347652.jpg",
+        "caption": "An airplane flying in the sky."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000349964.jpg",
+        "caption": "A dog is playing with a frisbee disc."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000354491.jpg",
+        "caption": "A foal near is standing near a horse."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000355072.jpg",
+        "caption": "A man holding a ball is running."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000362642.jpg",
+        "caption": "A clock on top of a tower."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000365654.jpg",
+        "caption": "A man is riding a skateboard."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000377713.jpg",
+        "caption": "A dog is biting a man's shoe."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000384070.jpg",
+        "caption": "A pot near a tree with lights."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000384395.jpg",
+        "caption": "A running train on a track."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000385535.jpg",
+        "caption": "A location board on a traffic signal."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000387764.jpg",
+        "caption": "People are standing beside a still train on a track."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000388902.jpg",
+        "caption": "Two birds are standing on a fence."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000395326.jpg",
+        "caption": "A boy is flying a kite."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000405894.jpg",
+        "caption": "A girl is sitting on a horse."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000406874.jpg",
+        "caption": "A dog with a frisbee disc."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000407465.jpg",
+        "caption": "A traffic signal near a clock tower."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000423234.jpg",
+        "caption": "people playing in the park."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000431297.jpg",
+        "caption": "Few giraffes are eating leaves."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000433084.jpg",
+        "caption": "A view of a dense forest."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000436936.jpg",
+        "caption": "A bear is eating leaves from a tree."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000442980.jpg",
+        "caption": "A zebra is walking near a tree."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000443400.jpg",
+        "caption": "A giraffe and zebras are walking on the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000452187.jpg",
+        "caption": "Two elephants are walking on the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000455476.jpg",
+        "caption": "Three sheep are sitting on the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000458598.jpg",
+        "caption": "A man is holding a skateboard."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000472509.jpg",
+        "caption": "A man is throwing a baseball."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000474410.jpg",
+        "caption": "Jet planes flying in the sky."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000478224.jpg",
+        "caption": "Two girls are playing with frisbee disc."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000479680.jpg",
+        "caption": "A man is riding a skateboard."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000484246.jpg",
+        "caption": "A giraffe is standing in a forest."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000493146.jpg",
+        "caption": "An airplane flying in the sky."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000494572.jpg",
+        "caption": "A traffic signal on a pole."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000505469.jpg",
+        "caption": "A bird is eating apple on the tree."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000509021.jpg",
+        "caption": "A cat is sitting on the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000516319.jpg",
+        "caption": "Lambs are walking on the grass."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000536738.jpg",
+        "caption": "A cat is standing on a man's foot."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000541991.jpg",
+        "caption": "A sheep is standing on a mountain."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000552276.jpg",
+        "caption": "Horses are standing near a fence."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000553942.jpg",
+        "caption": "a man with a camera and the other with skateboard."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000554978.jpg",
+        "caption": "Two elephants are standing beside the river."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000554994.jpg",
+        "caption": "Traffic signal lights tied to a pole."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000566027.jpg",
+        "caption": "A dog standing in front of a hydrant."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000568249.jpg",
+        "caption": "Three horses are grazing grass on a grassland."
+    },
+    {
+        "image_path": "fscoco\\FSCOCO_1\\FscocoSyn\\1\\000000575351.jpg",
+        "caption": "Boys are playing with frisbee disc."
+    }
+]
